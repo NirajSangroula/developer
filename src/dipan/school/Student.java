@@ -1,5 +1,5 @@
 // File: `src/dipan/Student.java`
-package dipan;
+package dipan.school;
 
 import java.util.ArrayList;
 import java.util.List;
