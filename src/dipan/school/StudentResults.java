@@ -1,5 +1,5 @@
 // File: `src/dipan/StudentResults.java`
-package dipan;
+package dipan.school;
 
 import java.util.Scanner;
 
