@@ -1,4 +1,4 @@
-package datatypesandoperators;
+package ishan.datatypesandoperators;
 
 public class Address {
     String city;
